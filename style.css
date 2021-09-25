@@ -1,0 +1,22 @@
+
+
+.container {
+  background-color: pink;
+  width: 50%;
+  margin: auto;
+  
+  
+}
+
+.container-fluid {
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  text-align: center;
+}
+
+input,
+label {
+  display: block;
+}
