@@ -13,6 +13,6 @@ A web app build with HTML, CSS and Javascript, in which you can find that your b
 
 # <h2>Clone the Repository</h2>
 To clone the repository open the terminal and run below command:
-https://github.com/sushmita12345/BirthdateLucky
+ git clone https://github.com/sushmita12345/BirthdateLucky
 
 
