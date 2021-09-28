@@ -8,4 +8,7 @@ A web app build with HTML, CSS and Javascript, in which you can find that your b
 <li>CSS</li>
 <li>Javascript</li>
 
+# Version Control
+<li> Github </li>
+
 
