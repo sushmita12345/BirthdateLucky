@@ -15,7 +15,7 @@
       <label for="date-of-birth" class="top-1">Date of Birth</label>
       <input type="date" id="date-of-birth" >
       <label for="lucky-number" class="top-2">Lucky Number</label>
-      <input type="number" id="lucky-number" >
+      <input type="number" id="lucky-number" min="0" oninput="validity.valid||(value='');" >
       <button id="check-number">Check Number</button>
       <div id="output-box"></div>
     
